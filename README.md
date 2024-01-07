@@ -41,9 +41,3 @@ Looking ahead, the project aims to expand its capabilities with features like re
 # Conclusion
 
 This Custom Graphics Engine project represents a significant leap in game development technology. By combining advanced graphical techniques with user-friendly design tools, it opens up new horizons for game creators and enthusiasts alike. The project continues to evolve, driven by a passion for innovation and a commitment to excellence in the field of game development.
-
-# Acknowledgments
-Special thanks to all contributors and supporters of this project, who have played a vital role in its success.
-
-# License
-[Specify the License Type]

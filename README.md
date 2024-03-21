@@ -1,4 +1,4 @@
-# Custom 3D Graphics Engin
+# Custom 3D Graphics Engine
 
 This repository hosts my Custom 3D Graphics Engine project, engineered using advanced rasterization techniques in C++ and OpenGL. The project showcases a blend of technical prowess and creative problem-solving, designed to optimize and elevate game development processes.
 
